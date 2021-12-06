@@ -8,7 +8,7 @@ mvn install
 
 java -jar jarFileFromAbove
 
-# To test reset endpoint
+# To test REST endpoint
 
 curl localhost:8080/prices/latest
 
