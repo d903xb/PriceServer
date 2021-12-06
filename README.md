@@ -6,7 +6,7 @@ JDK Version : 17
 
 mvn install
 
-java -jar <output jar file from above>
+java -jar jarFileFromAbove
 
 # To test reset endpoint
 
